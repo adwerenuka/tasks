@@ -1,1 +1,2 @@
-# tasks
+# npm i 
+# npm start
